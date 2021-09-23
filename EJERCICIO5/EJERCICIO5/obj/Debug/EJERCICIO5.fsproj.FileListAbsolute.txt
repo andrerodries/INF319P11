@@ -1,9 +1,0 @@
-c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO5\EJERCICIO5\bin\Debug\EJERCICIO5.exe.config
-c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO5\EJERCICIO5\bin\Debug\EJERCICIO5.XML
-c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO5\EJERCICIO5\bin\Debug\EJERCICIO5.exe
-c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO5\EJERCICIO5\bin\Debug\EJERCICIO5.pdb
-c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO5\EJERCICIO5\bin\Debug\FSharp.Core.dll
-c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO5\EJERCICIO5\bin\Debug\FSharp.Core.xml
-c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO5\EJERCICIO5\bin\Debug\es\FSharp.Core.resources.dll
-c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO5\EJERCICIO5\obj\Debug\EJERCICIO5.exe
-c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO5\EJERCICIO5\obj\Debug\EJERCICIO5.pdb
