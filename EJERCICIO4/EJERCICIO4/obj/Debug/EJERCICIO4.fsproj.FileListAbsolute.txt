@@ -1,0 +1,9 @@
+c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO4\EJERCICIO4\bin\Debug\EJERCICIO4.exe.config
+c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO4\EJERCICIO4\bin\Debug\EJERCICIO4.XML
+c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO4\EJERCICIO4\bin\Debug\EJERCICIO4.exe
+c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO4\EJERCICIO4\bin\Debug\EJERCICIO4.pdb
+c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO4\EJERCICIO4\bin\Debug\FSharp.Core.dll
+c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO4\EJERCICIO4\bin\Debug\FSharp.Core.xml
+c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO4\EJERCICIO4\bin\Debug\es\FSharp.Core.resources.dll
+c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO4\EJERCICIO4\obj\Debug\EJERCICIO4.exe
+c:\users\okara\documents\visual studio 2015\Projects\EJERCICIO4\EJERCICIO4\obj\Debug\EJERCICIO4.pdb
